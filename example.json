@@ -1,0 +1,70 @@
+[
+    {
+      "id": "user-uuid-1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "SecureP@ss1",
+      "phone": 1234567890,
+      "country": "United States",
+      "address": "123 Main St",
+      "city": "New York",
+      "orders": [
+        {
+          "id": "order-uuid-1",
+          "date": "2025-02-14T10:30:00Z",
+          "orderDetail": {
+            "id": "order-detail-uuid-1",
+            "orderNumber": "ORD-20250214-001",
+            "products": [
+              {
+                "id": "product-uuid-1",
+                "name": "Laptop",
+                "category": {
+                  "id": "category-uuid-1",
+                  "name": "Electronics"
+                }
+              },
+              {
+                "id": "product-uuid-2",
+                "name": "Wireless Mouse",
+                "category": {
+                  "id": "category-uuid-1",
+                  "name": "Electronics"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "user-uuid-2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "StrongP@ss2",
+      "phone": 9876543210,
+      "country": "Canada",
+      "address": "456 Elm St",
+      "city": "Toronto",
+      "orders": [
+        {
+          "id": "order-uuid-2",
+          "date": "2025-02-13T15:45:00Z",
+          "orderDetail": {
+            "id": "order-detail-uuid-2",
+            "orderNumber": "ORD-20250213-002",
+            "products": [
+              {
+                "id": "product-uuid-3",
+                "name": "Headphones",
+                "category": {
+                  "id": "category-uuid-2",
+                  "name": "Accessories"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
