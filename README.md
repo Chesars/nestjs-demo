@@ -24,14 +24,18 @@ This repository contains the source code for [Archestra.AI](https://archestra.ai
 
 ### Development
 
-```bash
 # Clone the repository
+```bash
 git clone https://github.com/archestra-ai/website.git
+```
+
 cd app
 # Install dependencies
+```bash
 pnpm install
-
+```
 # Start development server
+```bash
 pnpm dev
 ```
 
