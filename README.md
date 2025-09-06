@@ -1,6 +1,6 @@
 <div align="center">  
   
-  # Archestra AI ** Official Website **
+  # Archestra AI **Official Website**
 
   **Enterprise MCP Platform for AI Agents**
 
