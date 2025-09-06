@@ -1,8 +1,8 @@
 <div align="center">  
   
-  # Archestra AI
+  # Archestra AI official website
 
-  **Official Website**
+  **Enterprise MCP platform for AI agents.**
 
   
   [![Contributors](https://img.shields.io/github/contributors/archestra-ai/website)](https://github.com/archestra-ai/website/graphs/contributors)
