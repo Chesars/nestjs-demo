@@ -1,12 +1,11 @@
 <div align="center">  
   
-  # Archestra
+  # Archestra AI
   
   **Official Website**
 
   **Enterprise MCP Platform for AI Agents**
-  
-  <br />
+
   
   [![Contributors](https://img.shields.io/github/contributors/archestra-ai/website)](https://github.com/archestra-ai/website/graphs/contributors)
   [![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack)](https://join.slack.com/t/archestracommunity/shared_invite/zt-39yk4skox-zBF1NoJ9u4t59OU8XxQChg)
